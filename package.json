@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andiebp/allthenewsthatsfittoscrape.git"
+    "url": "git+https://github.com/lynvierra/allthenewsthatsfittoscrape.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/andiebp/allthenewsthatsfittoscrape/issues"
+    "url": "https://github.com/lynvierra/allthenewsthatsfittoscrape/issues"
   },
-  "homepage": "https://github.com/andiebp/allthenewsthatsfittoscrape#readme",
+  "homepage": "https://github.com/lynvierra/allthenewsthatsfittoscrape#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "cheerio": "^1.0.0-rc.2",
